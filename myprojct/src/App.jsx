@@ -32,8 +32,7 @@ function App() {
       
         <button className="btn"> C# </button>
       
-        <button className="btn"> BOOTSTRAP </button>
-
+       
 
         </div>
       
